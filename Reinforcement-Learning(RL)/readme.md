@@ -1,4 +1,4 @@
 ## Some algorithms have graph mode implemented.
 
-> Check CartPole - DQN
+> Check CartPole - A2C
 
