@@ -1,1 +1,0 @@
-This maze environment serves as a test to ensure that the algorithms consctructed by hand are correct.
